@@ -116,16 +116,16 @@ body {
 
 .app-download {
     height: 3rem;
-    width: 11rem;
+    width: 10rem;
     background-size: cover;
 }
 
 .app-download:nth-child(1) {
-    background-image: url('img/logo\ apple\ 5.png');
+    background-image: url('img/apple-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/logo\ google\ 5.png');
+    background-image: url('/img/googleplay-button.png');
 }
    /*media queries*/
 
